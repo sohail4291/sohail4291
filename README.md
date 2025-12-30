@@ -1,7 +1,7 @@
 # Hi 👋 I'm Sohail
 
-🎓 Final-year MCA student at PES University  
-💻 Interested in Machine Learning, Web Development & Healthcare AI  
+🎓 MCA graduatte from PES University  
+💻 Interested in Backend, Machine Learning, Web Development.
 
 ## 🛠 Tech Stack
 - **Languages:** Python, Java, JavaScript
@@ -12,8 +12,9 @@
 
 ## 🚀 Projects
 - Liver Cirrhosis Prediction using ML
-- Flask + MongoDB Web Application
+- Stripe Payment Intergration System (Java Microservices) 
 
 ## 📫 Connect with me
-- LinkedIn: ...
-- Email: ...
+- LinkedIn: https://www.linkedin.com/in/sohail4291/
+- GitHub: https://github.com/sohail4291
+- Email: sohailshaik4291@gmail.com
