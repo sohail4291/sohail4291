@@ -1,6 +1,6 @@
 # Hi 👋 I'm Sohail
 
-🎓 MCA graduatte from PES University  
+🎓 MCA graduate from PES University  
 💻 Interested in Backend, Machine Learning, Web Development.
 
 ## 🛠 Tech Stack
